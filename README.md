@@ -1,5 +1,8 @@
 # Portrait Workshop Bot
-
+<p align="center">
+  <img src="bot-main-1.png" alt="Start screen" width="250">
+  <img src="bot-main-2.png" alt="Result screen" width="250">
+</p>
 Telegram bot for AI-assisted portrait generation, style presets, queue control, and browser-based creative workflows.
 
 The project was built as a practical prototype for visual content automation: a user sends a photo, selects a style, and receives a generated portrait based on reusable prompt templates and a controlled generation flow.
